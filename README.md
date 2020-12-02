@@ -2,9 +2,11 @@
 
 This is a project created for course IM2073 to demonstrate the ability to create a web application, focusing on front end.
 
+<p align="center">
+  <img  src="./images/nba-home.png">
+</p>
 
-![Home page of the website](./images/nba-home.png)
-Home Page
+<h3 align="center"> Home Page </h3>
 
 
 With the following basic functions:
