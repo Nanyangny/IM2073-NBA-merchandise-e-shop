@@ -17,4 +17,4 @@ With the following basic functions:
 ![Home page of the website](./images/nba_products.png)
 
 
-Disclaimer: The product images are from https://www.nba.com/, solely for learning purposes.
+Disclaimer: The product images are from <a href="https://www.nba.com/" >NBA website</a>, solely for learning purposes.
